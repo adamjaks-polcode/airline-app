@@ -1,0 +1,1 @@
+import {ScrollView} from 'react-native';import SearchForm from './SearchForm/SearchForm';import MostPopularSection from './MostPopularSection/MostPopularSection';const HomeScreen = () => {  return (    <ScrollView>      <SearchForm />      <MostPopularSection />    </ScrollView>  )}export default HomeScreen;

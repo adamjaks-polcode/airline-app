@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36dcfb25-3ccd-4e47-8789-a9eb744f165c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AirlineApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/userSettingsService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices/flightBookingSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logoflymore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logoflymore_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BottomSheetModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DynamicInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OptionSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SideMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Snackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/seat-picker/SeatItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/seat-picker/SeatPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/seat-picker/consts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flightsData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ProfileScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/WelcomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/auth/LoginScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/auth/RegisterScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/booking/BookingStep1Screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/booking/BookingStep2Screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/booking/BookingStep3Screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/flight-picker/FlightInfoBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/flight-picker/FlightPickerScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/MostPopularSection/MostPopularSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/MostPopularSection/MostPopularSectionItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/SearchForm/SearchForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/localization-picker/LocalizationListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/localization-picker/LocalizationPickerScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translations/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translations/translations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QVss3SeFQh511qnhO8h87xtOFy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adamj/OneDrive/Pulpit/dev/frontend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2021.3.1\\new\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\services" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\assets\img" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\screens" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\screens\flight-picker" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\screens\localization-picker" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\translations" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\screens\home" />
+      <recent name="C:\Users\adamj\OneDrive\Pulpit\dev\AirlineApp\src\screens" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36dcfb25-3ccd-4e47-8789-a9eb744f165c" name="Changes" comment="" />
+      <created>1685450286944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685450286944</updated>
+      <workItem from="1685450290285" duration="14720000" />
+      <workItem from="1685620003508" duration="12694000" />
+      <workItem from="1686047112018" duration="12051000" />
+      <workItem from="1686294375850" duration="8426000" />
+      <workItem from="1686582383680" duration="26577000" />
+      <workItem from="1686838342875" duration="41787000" />
+      <workItem from="1687347317757" duration="40343000" />
+      <workItem from="1687772048268" duration="3111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

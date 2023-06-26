@@ -1,0 +1,1 @@
+import { combineReducers } from '@reduxjs/toolkit';import {userSettingsService} from '../services/userSettingsService';import flightBookingReducer from '../slices/flightBookingSlice';const rootReducer = combineReducers({  [userSettingsService.reducerPath]: userSettingsService.reducer,  flightBooking: flightBookingReducer});export default rootReducer;
