@@ -19,6 +19,7 @@ import i18n from './translations/config';
 import RegisterScreen from './src/screens/auth/RegisterScreen';
 import BookingStep2Screen from './src/screens/booking/BookingStep2Screen';
 import BookingStep3Screen from './src/screens/booking/BookingStep3Screen';
+import MyBookingsScreen from './src/screens/MyBookingsScreen';
 
 const Stack = createStackNavigator();
 
@@ -130,6 +131,13 @@ const App = () => {
                 component={ProfileScreen}
                 options={{
                   title: 'Profile'
+                }}
+              />
+              <Stack.Screen
+                name="MyBookingsScreen"
+                component={MyBookingsScreen}
+                options={{
+                  title: 'My bookings'
                 }}
               />
             </Stack.Navigator>
